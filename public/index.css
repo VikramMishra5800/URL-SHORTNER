@@ -1,0 +1,11 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    background-image: url("/images/background.jpg");
+    background-size: 100%;
+    background-position: center;
+}
+
+h3{
+    color: red;
+}
